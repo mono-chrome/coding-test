@@ -25,17 +25,17 @@ Consider the point of the test, it is to get an understanding of your knowledge 
 ### Data Sources
 Select one of the following APIs for your test below.
 
-| API                                                                                  | API Key                          |
-|--------------------------------------------------------------------------------------|----------------------------------|
-| [Darksky](https://darksky.net/dev) [Doc](https://darksky.net/dev/docs)               | 2531b31fcac013a100c0bbf4eb586d5f |
-| - use _Berlin, Germany_ as the location (52.5200° N, 13.4050° E)                     |                                  |
-| - display current weather and temperature in Celsius (SI units)                      |                                  |
-| [JSON Placeholder](http://jsonplaceholder.typicode.com)                              | N/A                              |
-| - use `/albums` and `/photos` in correlation                                         |                                  |
-| - display 10 Albums including their photos                                           |                                  |
-| [SpaceX](https://api.spacexdata.com/v3/launches) [Doc](https://docs.spacexdata.com/) | N/A                              |
-| - display the three most recent launches with the following information              |                                  |
-| - Mission Name, Year, Date, Rocket Name and Type, Launch Site                        |                                  |
+| API                                                                      | Additional Info                             |
+|--------------------------------------------------------------------------|---------------------------------------------|
+| [Darksky](https://darksky.net/dev) :: [Doc](https://darksky.net/dev/docs)| Key: 2531b31fcac013a100c0bbf4eb586d5f       |
+| - use _Berlin, Germany_ as the location (52.5200° N, 13.4050° E)         |                                             |
+| - display current weather and temperature in Celsius (SI units)          |                                             |
+| [JSON Placeholder](http://jsonplaceholder.typicode.com)                  | [Doc](https://jsonplaceholder.typicode.com/)|
+| - use `/albums` and `/photos` in correlation                             |                                             |
+| - display 10 Albums including their photos                               |                                             |
+| [SpaceX](https://api.spacexdata.com/v3/launches)                         | [Doc](https://docs.spacexdata.com/)         |
+| - display the three most recent launches with the following information  |                                             |
+| - Mission Name, Year, Date, Rocket Name and Type, Launch Site            |                                             |
 
 Please include comments in your source code and add JSDoc if necessary.
 
